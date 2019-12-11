@@ -1,4 +1,4 @@
-# Herecu
+# Heroku
 
 This project deployed with Heroku
 Heroku Python 3.7
